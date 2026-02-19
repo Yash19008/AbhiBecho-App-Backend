@@ -3,6 +3,8 @@ import cors from 'cors';
 
 const app = express();
 
+// TODO
+
 app.use(cors());
 app.use(express.json());
 
