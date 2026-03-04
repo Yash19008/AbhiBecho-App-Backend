@@ -3,7 +3,7 @@ import { config } from 'dotenv';
 
 config();
 
-// TODO
+// FURTHER UPDATES REQIURED
 
 const PORT = process.env.PORT || 5000;
 
