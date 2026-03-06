@@ -3,7 +3,7 @@ import cors from 'cors';
 
 const app = express();
 
-// TODO
+// TO BE DISCUSSED WHAT TO DO
 
 app.use(cors());
 app.use(express.json());
