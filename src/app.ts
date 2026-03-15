@@ -4,6 +4,7 @@ import cors from 'cors';
 const app = express();
 
 // TO BE DISCUSSED WHAT TO DO
+// ALREADY SETUP 70%
 
 app.use(cors());
 app.use(express.json());
